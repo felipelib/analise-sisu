@@ -1,7 +1,8 @@
 # analise-sisu
 Análise microdados do SISU
 
-Esse repositório contém análises do microdados dos alunos que realizaram a prova do ENEM de 2017 a 2022. Para realizar a análise, eu fiz consultas no SQL e dashboards utilizando o Power BI. Eu econtrei essa base de dados no site: https://basedosdados.org/dataset/8326e3d7-9cd2-4144-863f-c380fefef82c?table=4c60ec40-fadf-433d-98a5-f73e90106f7a
+Esse repositório contém análises do microdados dos alunos que realizaram a prova do ENEM de 2017 a 2022. Para realizar a análise, eu fiz consultas no SQL e dashboards utilizando o Power BI. Eu econtrei essa base de dados no site: https://basedosdados.org/dataset/8326e3d7-9cd2-4144-863f-c380fefef82c?table=4c60ec40-fadf-433d-98a5-f73e90106f7a.
+
 O SISU é a plataforma na qual os alunos jogam suas notas do ENEM e tentam conseguir aprovações na faculdade. E é a principal forma de um aluno ingressar numa faculdade público. A prova do ENEM é divida em 5 disciplinas:
   
   -Ciências Humanas(História, Geografia, Filosofia e Sociologia)
