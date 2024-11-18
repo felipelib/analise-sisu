@@ -16,3 +16,14 @@ Eu separei a análise em 4 partes:
   -Evolução ao longo do tempo: Variação das Notas e da taxa de aprovação ao longo do tempo.
   -Desempenho por Estado: Desempenho por cada estado.
   -Análise por Sexo: Comparação de desempenho por sexo. 
+
+
+
+
+
+
+
+
+
+
+
